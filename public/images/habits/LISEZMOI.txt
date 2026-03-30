@@ -1,0 +1,8 @@
+Pour ajouter vos propres photos de vêtements (Prêt-à-Porter) :
+
+1. Ouvrez l'explorateur de fichiers sur la gauche.
+2. Allez dans le dossier `public/images/habits/`.
+3. Cliquez sur l'icône "Upload" (télécharger) ou glissez-déposez votre image ici.
+4. Renommez votre image en `votre-habit.jpg` (ou modifiez le nom dans le fichier `src/App.tsx` pour qu'il corresponde à votre image).
+
+Note : Si l'image `votre-habit.jpg` n'est pas trouvée, le site affichera l'image par défaut.
